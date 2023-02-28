@@ -1,5 +1,12 @@
 # file_checker
 
+# Requisitos
+
+* Python 3
+
+# Ejecutar aplicación
+
+Abrir una terminal en la raiz del proyecto y ejecutar python3 main.py
 
 # Configuración del proyecto
 
