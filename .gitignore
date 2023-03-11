@@ -1,1 +1,11 @@
+# dirs
+__pycache__
+
+# Local settings
 local_settings.py
+
+# logs
+logs/*.log
+
+# Other files
+.DS_Store
