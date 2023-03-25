@@ -7,16 +7,21 @@
 # Ejecutar aplicación
 
 Abrir una terminal en la raiz del proyecto y ejecutar python3 main.py
+
 Otra opción el abrir el fichero con "Python Launcher", y esto ya abrirá una terminal ejecutando el fichero.
+
+Ejemplos detallados: https://tecnotec.es/como-ejecutar-un-script-de-python-en-mac/
 
 # Cerrar la aplicación
 
 Al cerrar la terminal se terminará la ejecución del programa.
+
 Otras formas pueden ser hacer "Ctrl + C" en la terminal para cerrar el proceso, o al apagar el ordenador.
 
 # Configuración del proyecto
 
-La configuración del proyecto está en el fichero settings.py.
+La configuración del proyecto está en el fichero **settings.py**.
+
 Para modificarlo basta con abrirlo con cualquier aplicación de texto como un bloc de notas y guardar los cambios.
 
 En el fichero settings.py se configura la siguiente información:
